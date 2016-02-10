@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Permission Example</string>
+    <string name="action_continue">Continuar</string>
+
+    <string name="write_external_storage_button">Permiso WRITE_EXTERNAL_STORAGE</string>
+    <string name="read_contacts_button">Permiso READ_CONTACTS</string>
+    <string name="location_group_button">Permiso LOCATION_GROUP</string>
+
+    <string name="permission_status">Estado</string>
+    <string name="permission_status_unknown">Desconocido</string>
+    <string name="permission_status_granted">Concedido</string>
+    <string name="permission_status_denied">Denegado</string>
+    <string name="permission_status_permanently_denied">Denegado permanentemente</string>
+
+    <string name="permission_dialog_text">Texto corto explicando para qué es necesario el permiso %1$s</string>
+</resources>
